@@ -1,8 +1,7 @@
-# fictional-invention
 This file contains the career statistics from Nolan Arenado, Bryce Harper, and Manny Machado since 2013.
 I wanted to see who was better amongst the three, since all three are looking to sign major deals currently. 
 
-# Loading in the Data
+## Loading in the Data
 I first read in each .csv file of each player from baseball-reference.com. Their function above each table to convert to .csv is extremely
   helpful.
 Next, I deleted columns I did not need initially. 
